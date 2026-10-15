@@ -1,6 +1,6 @@
 cask "notchdock" do
-  version "0.19.0"
-  sha256 "591bebe8642bbe39b23a7265f44b2af4eafb37eb280818a3b90bb79911de2055"
+  version "0.19.1"
+  sha256 "c1fe87a387d051f577f23930b1b7479a8892e1955b9b53dcb4d5d84759768805"
 
   url "https://github.com/rohanrony/notchdock/releases/download/v#{version}/NotchDock.dmg"
   name "NotchDock"
